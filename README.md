@@ -10,3 +10,7 @@ Este es un programa de prueba para realizar retos mentales
 $ cd %ruta_de_clone%\Entrenamiento_Mental\programa\brain_train
 $ python main.py
 ```
+
+## Autores:
+* Guadalupe Palpán
+* Luis Chávez
